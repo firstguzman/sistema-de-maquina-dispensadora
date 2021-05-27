@@ -1,4 +1,4 @@
-# SIstema de Maquina Dispensadora
+# Sistema de Maquina Dispensadora
 
 Este repositorio alberga los archivos fuente para un proyecto práctico, el cual consiste en realizar un sistema para una maquina dispensadoras de bebidas. El sistema posee la siguientes caracteristicas: Muestra los productos disponibles en la maquína, lee el dinero ingresado a través de un archivo .txt y otorga el cambio si es necesario.
 
